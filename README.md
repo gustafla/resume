@@ -1,1 +1,1 @@
-# https://gustafla.github.com/resume
+# https://gustafla.github.io/resume
